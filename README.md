@@ -31,25 +31,25 @@
 
 ## Category
 
-- [텐큐브 Back-end](./list.md/### 텐큐브 TENQUBE)
+- [텐큐브 Back-end](./list.md/)
 
-- [쿠팡 Coupang](./list.md/### 쿠팡 Coupang)
+- [쿠팡 Coupang](./list.md/)
 
-- [큐픽스](./list.md/### 큐픽스)
+- [큐픽스](./list.md/)
 
-- [슈퍼진](./list.md/### 슈퍼진)
+- [슈퍼진](./list.md/)
 
-- [SandBox NetWork](./list.md/### SandBox NetWork)
+- [SandBox NetWork](./list.md/)
 
-- [슈퍼캣](./list.md/### 슈퍼캣)
+- [슈퍼캣](./list.md/)
 
-- [erpper](./list.md/### erpper)
+- [erpper](./list.md/)
 
-- [아이크롭스](./list.md/### 아이크롭스)
+- [아이크롭스](./list.md/)
 
-- [날비컴퍼니](./list.md/### 날비컴퍼니)
+- [날비컴퍼니](./list.md/)
 
-- [날비컴퍼니 게임서버](./list.md/### 날비컴퍼니 게임서버)
+- [날비컴퍼니 게임서버](./list.md)
 
   
 
