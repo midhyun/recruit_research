@@ -1,4 +1,4 @@
-# Job_Research 
+# Job_Research
 
 > 채용 공고 사이트 분석
 
